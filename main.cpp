@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::cout << add(2, 5) << "\n";
+    std::cout << add(2, 4) << "\n";
 
     return 0;
 }
